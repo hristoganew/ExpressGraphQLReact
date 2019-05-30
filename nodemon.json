@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "ico",
+        "MONGO_PASSWORD": "HF2ttKfByu67Suvb",
+        "MONGO_DB": "cars-react-dev"
+    }
+}
